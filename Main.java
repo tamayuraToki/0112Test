@@ -11,5 +11,6 @@ public class Main {
 			System.out.printf("%10s %4d %4d\n", 
 					item.getName(),item.getPrice(),item.getWeight());
 		}
+		System.out.println("処理完了");
 	}
 }
